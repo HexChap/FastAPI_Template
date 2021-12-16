@@ -1,1 +1,4 @@
-"pip install uvicorn" 
+databases==0.5.3
+fastapi==0.70.0
+pydantic==1.8.2
+uvicorn==0.15.0
